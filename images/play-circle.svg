@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="play-circle" transform="translate(1 1)">
+    <circle id="Oval" cx="10" cy="10" r="10" fill="none" stroke="#0984e3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path" d="M0,0,6,4,0,8V0Z" transform="translate(8 6)" fill="none" stroke="#0984e3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

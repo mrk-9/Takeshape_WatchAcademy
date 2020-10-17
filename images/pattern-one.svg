@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="69" viewBox="0 0 54 69">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="54" height="69" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="plus-bg" clip-path="url(#clip-path)">
+    <g id="Group_1" data-name="Group 1" transform="translate(6226 2840)">
+      <text id="_" data-name="+" transform="translate(-6226 -2821)" fill="#1d1d1d" font-size="20" font-family="HelveticaNeue-MediumCond, Helvetica Neue" font-weight="500"><tspan x="0" y="0">+</tspan></text>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(6253 2840)">
+      <text id="_2" data-name="+" transform="translate(-6226 -2821)" fill="#1d1d1d" font-size="20" font-family="HelveticaNeue-MediumCond, Helvetica Neue" font-weight="500"><tspan x="0" y="0">+</tspan></text>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(6226 2870)">
+      <text id="_3" data-name="+" transform="translate(-6226 -2821)" fill="#1d1d1d" font-size="20" font-family="HelveticaNeue-MediumCond, Helvetica Neue" font-weight="500"><tspan x="0" y="0">+</tspan></text>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(6253 2870)">
+      <text id="_4" data-name="+" transform="translate(-6226 -2821)" fill="#1d1d1d" font-size="20" font-family="HelveticaNeue-MediumCond, Helvetica Neue" font-weight="500"><tspan x="0" y="0">+</tspan></text>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(6226 2900)">
+      <text id="_5" data-name="+" transform="translate(-6226 -2821)" fill="#1d1d1d" font-size="20" font-family="HelveticaNeue-MediumCond, Helvetica Neue" font-weight="500"><tspan x="0" y="0">+</tspan></text>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(6253 2900)">
+      <text id="_6" data-name="+" transform="translate(-6226 -2821)" fill="#1d1d1d" font-size="20" font-family="HelveticaNeue-MediumCond, Helvetica Neue" font-weight="500"><tspan x="0" y="0">+</tspan></text>
+    </g>
+  </g>
+</svg>
